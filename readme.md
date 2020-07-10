@@ -8,7 +8,7 @@ he names and user ids of matching customers (within 100km), sorted by User ID (a
 
 ## Run to starts one-time search execution from the source directory as:
 
-### '$ python3 main.py'
+### $ python3 main.py
 
 ## Haversine 
 
@@ -26,5 +26,5 @@ Unit tests should be run using `pytest`.
 
 ### Better data fetching
 
-Other big issues was fetching datas from files, from big files! For production usage we might choose some storage and fetching datas by index keys.
+A major issues was getting pieces of information from records, from large documents! For creation use we may pick some stockpiling and getting figures by record keys.
 
