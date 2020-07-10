@@ -8,7 +8,7 @@ he names and user ids of matching customers (within 100km), sorted by User ID (a
 
 ## Run to starts one-time search execution from the source directory as:
 
-### $ python3 main.py
+### `$ python3 main.py`
 
 ## Haversine 
 
