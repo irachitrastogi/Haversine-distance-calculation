@@ -22,7 +22,7 @@ Basically, It calculates the arc length of the great circle with the giving poin
 
 For testing
 Unit tests should be run using 
-### `pytest`.
+### `pytest`
 
 
 ### Better data fetching
